@@ -4,6 +4,7 @@
  * Module: MMM-Chart
  * 
  * Developed by Erik Pettersson
+ * Added changes by Christian Browers
  * Partly based on dynchart module by Chris van Marle
  * MIT Licensed.
  */
